@@ -29,9 +29,9 @@ int main() {
     vector<int> result = solution(arr, divisor);
 
     for (int num : result) {
-        std::cout << num << " ";
+        cout << num << " ";
     }
-    std::cout << std::endl;
+    cout << endl;
 
     return 0;
 }
