@@ -6,7 +6,6 @@ using namespace std;
 string solution(vector<int> arr) {
     string answer = "mixed";
     
-    // Check for ascending
     bool isAscending = true;
     for (int i = 0; i < 7; i++) {
         if (arr[i] + 1 != arr[i + 1]) {
@@ -15,7 +14,6 @@ string solution(vector<int> arr) {
         }
     }
     
-    // Check for descending
     bool isDescending = true;
     for (int i = 0; i < 7; i++) {
         if (arr[i] - 1 != arr[i + 1]) {
@@ -26,7 +24,8 @@ string solution(vector<int> arr) {
     
     if (isAscending) {
         answer = "ascending";
-    } else if (isDescending) {
+    } 
+    else if (isDescending) {
         answer = "descending";
     }
     
