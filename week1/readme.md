@@ -1,5 +1,4 @@
 # PPS C++ Week 01
-22200097 / 김성민
 
 ### C++ Level - Very Easy
 - A004. 
