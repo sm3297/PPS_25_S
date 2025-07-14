@@ -17,9 +17,11 @@ public:
 int main(){
     Solution sol;
     string text;
+
     cout << "text = ";
     cin >> text;
     int n = sol.maxNumberOfBalloons(text);
     cout << n << endl;
+    
     return 0;
 }

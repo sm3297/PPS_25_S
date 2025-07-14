@@ -26,8 +26,8 @@ int main() {
             }
             else break;
         }
-
        printf("%.2f\n", n); 
+       
     }
     return 0;
 }
