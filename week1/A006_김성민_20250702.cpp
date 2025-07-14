@@ -5,8 +5,6 @@ using namespace std;
 bool solution(string s)
 {
     bool answer = true;
-
-    // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
     int p_count = 0;
     int y_count = 0;
 
