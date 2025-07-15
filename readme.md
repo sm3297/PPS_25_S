@@ -6,5 +6,5 @@
 
 * PPS 처음 참가
 
-* level : Very Easy
+* level : Very Easy, Easy(하는중)
 
