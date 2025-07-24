@@ -8,3 +8,4 @@
 
 * level : Very Easy, Easy(하는중)
 
+* 현재 푼 문제 개수 : 78
